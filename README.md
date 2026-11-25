@@ -97,7 +97,7 @@ Transportation and Delivery
 Successful Farmer-to-Buyer Connection
 
 
-
+![system architecture](system-architecture.jpg.jpeg)
 
 ## Feasibility and Viability
 Technical Feasibility:
